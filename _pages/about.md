@@ -20,6 +20,7 @@ My research focuses on computer vision and graphics for digital humans and embod
 
 # News
 
+- **Jul. 2026** [Human4K](https://arxiv.org/abs/2607.13646) was released on arXiv.
 - **Jul. 2026** Received my Ph.D. degree from [Macau University of Science and Technology](https://www.must.edu.mo/).
 - **Oct. 2025** [PESTalk](https://doi.org/10.1145/3746027.3755190) was published at ACM Multimedia 2025.
 - **Oct. 2025** [Simulating Marine Snow Images](https://doi.org/10.1109/JOE.2025.3590094) was published in *IEEE Journal of Oceanic Engineering*.
@@ -28,6 +29,19 @@ My research focuses on computer vision and graphics for digital humans and embod
 <span class="anchor" id="publications"></span>
 
 # Publications
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">arXiv 2026</div><img src="images/human4k.png" alt="Human4K multi-view capture setup" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+**Human4K: A Large-Scale 4K Multi-View Mocap Dataset for Whole-Body 3D Human Reconstruction**
+
+**Tianshun Han**, Ziyu Shi, Lijian Liu, Ajian Liu, Benjia Zhou, Hugo J. Escalante, Yanyan Liang, Sergio Escalera, Zhen Lei, and Jun Wan.
+
+*arXiv preprint arXiv:2607.13646*, 2026.
+
+[[Paper]](https://arxiv.org/abs/2607.13646)
+
+</div></div>
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">ACM MM 2025</div><img src="images/pestalk.png" alt="PESTalk overview" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
@@ -55,17 +69,31 @@ My research focuses on computer vision and graphics for digital humans and embod
 
 </div></div>
 
-- **Simulating Marine Snow Images: Pipeline, Data Set, and Benchmark.** Yiqing Huang†, **Tianshun Han†**, Hongsheng Zhao†, Yanyan Liang, Jun Wan, Sergio Escalera, and Haiyong Zheng. *IEEE Journal of Oceanic Engineering*, vol. 50, no. 4, pp. 2605–2620, 2025. [[Paper]](https://doi.org/10.1109/JOE.2025.3590094)
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE JOE 2025</div><img src="images/marine-snow-benchmark.png" alt="Concept illustration of a marine-snow simulation and benchmark pipeline" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
 
-- **OFDM Underwater Acoustic Communication Receiver Based on Deep Learning.** Y. Chen, P. Qiao, X. Ren, and `Tianshun Han`. *OCEANS 2024—Singapore*, pp. 1–7, 2024. [[Paper]](https://doi.org/10.1109/OCEANS51537.2024.10682211)
+**Simulating Marine Snow Images: Pipeline, Data Set, and Benchmark**
 
-- **Underwater Sound Source Range Estimation Based on Deep Learning.** Y. Qu, Y. Huang, X. Ren, Y. Chen, and `Tianshun Han`. *OCEANS 2024—Singapore*, pp. 1–8, 2024. [[Paper]](https://doi.org/10.1109/OCEANS51537.2024.10682177)
+Yiqing Huang†, **Tianshun Han†**, Haoru Zhao†, Yanyan Liang, Jun Wan, Sergio Escalera, and Haiyong Zheng.
 
-- **A Convolutional Neural Network Based BPSK Demodulator for Underwater Acoustic Communication.** `Tianshun Han`, Z. Shi, H. Zheng, J. Dong, Z. Gu, and B. Zheng. *OCEANS 2022—Chennai*, pp. 1–6, 2022. [[Paper]](https://doi.org/10.1109/OCEANSChennai45887.2022.9775379)
+*IEEE Journal of Oceanic Engineering*, vol. 50, no. 4, pp. 2605–2620, 2025.
 
-- **Marine Snow Removal.** D. Guo, Y. Huang, `Tianshun Han`, H. Zheng, Z. Gu, and B. Zheng. *OCEANS 2022—Chennai*, pp. 1–7, 2022. [[Paper]](https://doi.org/10.1109/OCEANSChennai45887.2022.9775132)
+[[Paper]](https://doi.org/10.1109/JOE.2025.3590094)
 
-- **A Micro-Expression Recognition Algorithm Based on the Radon Transform.** J. Wu, Y. An, `Tianshun Han`, et al. *Telecommunication Engineering*, 2020. In Chinese; title translated.
+</div></div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">OCEANS 2022</div><img src="images/bpsk-demodulator.png" alt="Concept illustration of a neural BPSK demodulator for underwater acoustic communication" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+**A Convolutional Neural Network Based BPSK Demodulator for Underwater Acoustic Communication**
+
+**Tianshun Han**, Z. Shi, H. Zheng, J. Dong, Z. Gu, and B. Zheng.
+
+*OCEANS 2022—Chennai*, pp. 1–6, 2022.
+
+[[Paper]](https://doi.org/10.1109/OCEANSChennai45887.2022.9775379)
+
+</div></div>
 
 † Equal contribution. See [Google Scholar](https://scholar.google.com/citations?user=wGcEkqwAAAAJ) for a complete and up-to-date list.
 

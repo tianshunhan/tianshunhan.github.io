@@ -54,17 +54,24 @@
         justify-content: center;
         display: flex;
         width: 100%;
-        order: 2;
+        order: 1;
+        margin-bottom: 1.25em;
+        > div {
+            width: 100%;
+        }
         img {
+            width: 100%;
             max-width: 400px;
+            aspect-ratio: 16 / 9;
             box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
+            object-fit: contain;
+            background: #f5f5f5;
         }
     }
     
     .paper-box-text{
         max-width: 100%;
-        order: 1;
+        order: 2;
     }
     
     @include breakpoint($medium) {
@@ -73,6 +80,7 @@
             min-width: 200px;
             max-width: 40%;
             order: 1;
+            margin-bottom: 0;
         }
         
         .paper-box-text{
