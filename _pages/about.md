@@ -125,12 +125,3 @@ My research focuses on computer vision and graphics for digital humans and embod
 # Academic Service
 
 - Reviewer: ICCV, AAAI, ACM Multimedia, and *IEEE Transactions on Multimedia*
-
-<span class="anchor" id="contact"></span>
-
-# Contact
-
-- Email: [3230002542@student.must.edu.mo](mailto:3230002542@student.must.edu.mo)
-- GitHub: [github.com/tianshunhan](https://github.com/tianshunhan)
-- Google Scholar: [Tianshun Han](https://scholar.google.com/citations?user=wGcEkqwAAAAJ)
-- ORCID: [0009-0004-3393-1597](https://orcid.org/0009-0004-3393-1597)
