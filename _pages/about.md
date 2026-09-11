@@ -69,7 +69,7 @@ My research focuses on computer vision and graphics for digital humans and embod
 
 </div></div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE JOE 2025</div><img src="images/marine-snow-benchmark.png" alt="Concept illustration of a marine-snow simulation and benchmark pipeline" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE JOE 2025</div><img src="images/marine-snow-benchmark.jpg" alt="Concept illustration of a marine-snow simulation and benchmark pipeline" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
 **Simulating Marine Snow Images: Pipeline, Data Set, and Benchmark**
@@ -82,7 +82,7 @@ Yiqing Huang†, **Tianshun Han†**, Haoru Zhao†, Yanyan Liang, Jun Wan, Serg
 
 </div></div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">OCEANS 2022</div><img src="images/bpsk-demodulator.png" alt="Concept illustration of a neural BPSK demodulator for underwater acoustic communication" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">OCEANS 2022</div><img src="images/bpsk-demodulator.jpg" alt="Concept illustration of a neural BPSK demodulator for underwater acoustic communication" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
 **A Convolutional Neural Network Based BPSK Demodulator for Underwater Acoustic Communication**
