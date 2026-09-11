@@ -12,9 +12,9 @@ redirect_from:
 
 # About Me
 
-I received my Ph.D. in Artificial Intelligence from [Macau University of Science and Technology](https://www.must.edu.mo/) in 2026, under the supervision of Prof. Jun Wan. My research background is in speech-driven 3D facial animation and multimodal interaction with digital humans. My current interests include embodied intelligence, biomimetic robotic faces, and world-action models.
+I received my Ph.D. degree in Artificial Intelligence from [Macau University of Science and Technology](https://www.must.edu.mo/) in 2026, advised by [Prof. Jun Wan](https://scholar.google.com/citations?user=bSbc7FQAAAAJ&hl=en). Before that, I obtained my master's degree from [Ocean University of China](http://eweb.ouc.edu.cn/), advised by [Prof. Haiyong Zheng](https://scholar.google.com/citations?user=ie8MvbgAAAAJ&hl=en), and completed my undergraduate studies at [Xi'an University of Posts and Telecommunications](https://english.xupt.edu.cn/).
 
-My work has appeared in *IEEE Transactions on Multimedia*, ACM Multimedia, *IEEE Journal of Oceanic Engineering*, and OCEANS. I have also worked as a research intern at Tencent AI Lab and the Institute of Automation, Chinese Academy of Sciences.
+My research focuses on computer vision and graphics for digital humans and embodied intelligence. Currently, I am interested in generative world-action models and biomimetic robotic faces, building on my background in speech-driven 3D facial animation and multimodal human interaction.
 
 <span class="anchor" id="research"></span>
 
@@ -25,6 +25,15 @@ My work has appeared in *IEEE Transactions on Multimedia*, ACM Multimedia, *IEEE
 - World-action models
 - Speech-driven 3D facial animation
 - Multimodal interaction with digital humans
+
+<span class="anchor" id="news"></span>
+
+# News
+
+- **Jul. 2026** Received my Ph.D. degree from [Macau University of Science and Technology](https://www.must.edu.mo/).
+- **Oct. 2025** [PESTalk](https://doi.org/10.1145/3746027.3755190) was published at ACM Multimedia 2025.
+- **Oct. 2025** [Simulating Marine Snow Images](https://doi.org/10.1109/JOE.2025.3590094) was published in *IEEE Journal of Oceanic Engineering*.
+- **Dec. 2024** [PMMTalk](https://doi.org/10.1109/TMM.2024.3521701) was accepted by *IEEE Transactions on Multimedia*.
 
 <span class="anchor" id="publications"></span>
 
@@ -87,15 +96,15 @@ My work has appeared in *IEEE Transactions on Multimedia*, ACM Multimedia, *IEEE
 
 # Education
 
-- **Macau University of Science and Technology**, Macau, China<br>
+- **[Macau University of Science and Technology](https://www.must.edu.mo/)**, Macau, China<br>
   Ph.D. in Artificial Intelligence, Aug. 2023–Jul. 2026<br>
-  Advisor: Prof. Jun Wan; full scholarship; GPA: 3.9/4.0.
+  Advisor: [Prof. Jun Wan](https://scholar.google.com/citations?user=bSbc7FQAAAAJ&hl=en); full scholarship; GPA: 3.9/4.0.
 
-- **Ocean University of China**, Qingdao, China<br>
+- **[Ocean University of China](http://eweb.ouc.edu.cn/)**, Qingdao, China<br>
   M.S. in Signal and Information Processing, Sep. 2020–Jun. 2023<br>
-  Advisor: Prof. Haiyong Zheng; GPA: 3.6/4.0.
+  Advisor: [Prof. Haiyong Zheng](https://scholar.google.com/citations?user=ie8MvbgAAAAJ&hl=en); GPA: 3.6/4.0.
 
-- **Xi'an University of Posts and Telecommunications**, Xi'an, China<br>
+- **[Xi'an University of Posts and Telecommunications](https://english.xupt.edu.cn/)**, Xi'an, China<br>
   B.S. in Electronic Information Engineering, Sep. 2016–Jun. 2020.
 
 <span class="anchor" id="awards"></span>
