@@ -114,30 +114,24 @@ Yiqing Huang†, **Tianshun Han†**, Haoru Zhao†, Yanyan Liang, Jun Wan, Serg
 
 # Education
 
-- **[Macau University of Science and Technology](https://www.must.edu.mo/)**, Macau, China<br>
-  Ph.D. in Artificial Intelligence, Aug. 2023–Jul. 2026<br>
-  Advisor: [Prof. Jun Wan](https://scholar.google.com/citations?user=bSbc7FQAAAAJ&hl=en); full scholarship; GPA: 3.9/4.0.
+- **[Macau University of Science and Technology](https://www.must.edu.mo/)**<br>
+  Ph.D. in Artificial Intelligence, Aug. 2023–Jul. 2026.
 
-- **[Ocean University of China](http://eweb.ouc.edu.cn/)**, Qingdao, China<br>
-  M.S. in Signal and Information Processing, Sep. 2020–Jun. 2023<br>
-  Advisor: [Prof. Haiyong Zheng](https://scholar.google.com/citations?user=ie8MvbgAAAAJ&hl=en); GPA: 3.6/4.0.
+- **[Ocean University of China](http://eweb.ouc.edu.cn/)**<br>
+  M.S. in Signal and Information Processing, Sep. 2020–Jun. 2023.
 
-- **[Xi'an University of Posts and Telecommunications](https://english.xupt.edu.cn/)**, Xi'an, China<br>
+- **[Xi'an University of Posts and Telecommunications](https://english.xupt.edu.cn/)**<br>
   B.S. in Electronic Information Engineering, Sep. 2016–Jun. 2020.
 
 <span class="anchor" id="awards"></span>
 
 # Honors and Awards
 
-- Third Prize, 11th National Sharing Cup Competition, 2024
-- Second Prize, Greater Bay Area S&T Resource Sharing Competition, 2024
+- Second Prize, Greater Bay Area S&T Resource Sharing Competition (provincial level), and Third Prize, 11th National Sharing Cup Competition (national level), 2024
 - Academic Scholarships, Ocean University of China, 2022 and 2023
-- Third Prize, 5th National Underwater Robot Competition, Optical Track, 2021
-- Third Prize, 5th National Underwater Robot Competition, Acoustic Track, 2021
-- Second Prize, 16th China Graduate Electronic Design Contest, North China, 2021
+- Third Prizes in the Optical and Acoustic Tracks, 5th National Underwater Robot Competition, 2021
 - Dongsheng Graduate Scholarship, Ocean University of China, 2021
 - Outstanding Graduate Student, Ocean University of China, 2021
-- Bronze Award, Shaanxi Provincial Internet+ Innovation & Entrepreneurship Competition, 2019
 - First- and Second-Class Scholarships, Xi'an University of Posts and Telecommunications, 2017–2019
 
 # Academic Service
