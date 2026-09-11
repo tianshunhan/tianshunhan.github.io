@@ -102,13 +102,8 @@ Yiqing Huang†, **Tianshun Han†**, Haoru Zhao†, Yanyan Liang, Jun Wan, Serg
 # Research Experience
 
 - **Tencent AI Lab, Digital Human Technology Center**, Research Intern, Oct. 2024–Jul. 2025
-  - Developed personalized emotional-style modeling for speech-driven facial animation.
-  - Developed motion-graph-based head-motion synthesis and audio–motion matching.
 
 - **Institute of Automation, Chinese Academy of Sciences**, Research Intern, Oct. 2023–Jun. 2024
-  - Worked at the State Key Laboratory of Multimodal Artificial Intelligence.
-  - Developed pseudo-modal temporal and semantic alignment methods for facial animation.
-  - Built interactive digital-human systems using ASR, large language models, TTS, Gradio, MetaHuman, and Unreal Engine.
 
 <span class="anchor" id="education"></span>
 
