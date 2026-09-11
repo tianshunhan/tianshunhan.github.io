@@ -16,16 +16,6 @@ I received my Ph.D. degree in Artificial Intelligence from [Macau University of 
 
 My research focuses on computer vision and graphics for digital humans and embodied intelligence. Currently, I am interested in generative world-action models and biomimetic robotic faces, building on my background in speech-driven 3D facial animation and multimodal human interaction.
 
-<span class="anchor" id="research"></span>
-
-# Research Interests
-
-- Embodied intelligence
-- Biomimetic robotic faces
-- World-action models
-- Speech-driven 3D facial animation
-- Multimodal interaction with digital humans
-
 <span class="anchor" id="news"></span>
 
 # News
