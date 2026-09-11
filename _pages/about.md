@@ -127,9 +127,9 @@ Yiqing Huang†, **Tianshun Han†**, Haoru Zhao†, Yanyan Liang, Jun Wan, Serg
 
 # Honors and Awards
 
-- Second Prize, Greater Bay Area S&T Resource Sharing Competition (provincial level), and Third Prize, 11th National Sharing Cup Competition (national level), 2024
+- Second Prize at the Provincial Level and Third Prize at the National Level, 11th Sharing Cup Competition, 2024
 - Academic Scholarships, Ocean University of China, 2022 and 2023
-- Third Prizes in the Optical and Acoustic Tracks, 5th National Underwater Robot Competition, 2021
+- Third Prize in Each of the Optical and Acoustic Tracks, 5th National Underwater Robot Competition, 2021
 - Dongsheng Graduate Scholarship, Ocean University of China, 2021
 - Outstanding Graduate Student, Ocean University of China, 2021
 - First- and Second-Class Scholarships, Xi'an University of Posts and Telecommunications, 2017–2019
