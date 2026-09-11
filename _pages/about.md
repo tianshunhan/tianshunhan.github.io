@@ -35,7 +35,7 @@ My research focuses on computer vision and graphics for digital humans and embod
 
 **Human4K: A Large-Scale 4K Multi-View Mocap Dataset for Whole-Body 3D Human Reconstruction**
 
-**Tianshun Han**, Ziyu Shi, Lijian Liu, Ajian Liu, Benjia Zhou, Hugo J. Escalante, Yanyan Liang, Sergio Escalera, Zhen Lei, and Jun Wan.
+`Tianshun Han`, Ziyu Shi, Lijian Liu, Ajian Liu, Benjia Zhou, Hugo J. Escalante, Yanyan Liang, Sergio Escalera, Zhen Lei, and Jun Wan.
 
 *arXiv preprint arXiv:2607.13646*, 2026.
 
@@ -74,7 +74,7 @@ My research focuses on computer vision and graphics for digital humans and embod
 
 **Simulating Marine Snow Images: Pipeline, Data Set, and Benchmark**
 
-Yiqing Huang†, **Tianshun Han†**, Haoru Zhao†, Yanyan Liang, Jun Wan, Sergio Escalera, and Haiyong Zheng.
+Yiqing Huang†, `Tianshun Han`†, Haoru Zhao†, Yanyan Liang, Jun Wan, Sergio Escalera, and Haiyong Zheng.
 
 *IEEE Journal of Oceanic Engineering*, vol. 50, no. 4, pp. 2605–2620, 2025.
 
@@ -87,7 +87,7 @@ Yiqing Huang†, **Tianshun Han†**, Haoru Zhao†, Yanyan Liang, Jun Wan, Serg
 
 **A Convolutional Neural Network Based BPSK Demodulator for Underwater Acoustic Communication**
 
-**Tianshun Han**, Z. Shi, H. Zheng, J. Dong, Z. Gu, and B. Zheng.
+`Tianshun Han`, Z. Shi, H. Zheng, J. Dong, Z. Gu, and B. Zheng.
 
 *OCEANS 2022—Chennai*, pp. 1–6, 2022.
 
