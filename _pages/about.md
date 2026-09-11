@@ -55,7 +55,7 @@ My research focuses on computer vision and graphics for digital humans and embod
 
 </div></div>
 
-- **Simulating Marine Snow Images: Pipeline, Data Set, and Benchmark.** Yiqing Huang<sup>*</sup>, `Tianshun Han`<sup>*</sup>, Hongsheng Zhao<sup>*</sup>, Yanyan Liang, Jun Wan, Sergio Escalera, and Haiyong Zheng. *IEEE Journal of Oceanic Engineering*, vol. 50, no. 4, pp. 2605–2620, 2025. [[Paper]](https://doi.org/10.1109/JOE.2025.3590094)
+- **Simulating Marine Snow Images: Pipeline, Data Set, and Benchmark.** Yiqing Huang†, **Tianshun Han†**, Hongsheng Zhao†, Yanyan Liang, Jun Wan, Sergio Escalera, and Haiyong Zheng. *IEEE Journal of Oceanic Engineering*, vol. 50, no. 4, pp. 2605–2620, 2025. [[Paper]](https://doi.org/10.1109/JOE.2025.3590094)
 
 - **OFDM Underwater Acoustic Communication Receiver Based on Deep Learning.** Y. Chen, P. Qiao, X. Ren, and `Tianshun Han`. *OCEANS 2024—Singapore*, pp. 1–7, 2024. [[Paper]](https://doi.org/10.1109/OCEANS51537.2024.10682211)
 
@@ -67,7 +67,7 @@ My research focuses on computer vision and graphics for digital humans and embod
 
 - **A Micro-Expression Recognition Algorithm Based on the Radon Transform.** J. Wu, Y. An, `Tianshun Han`, et al. *Telecommunication Engineering*, 2020. In Chinese; title translated.
 
-<sup>*</sup> Equal contribution. See [Google Scholar](https://scholar.google.com/citations?user=wGcEkqwAAAAJ) for a complete and up-to-date list.
+† Equal contribution. See [Google Scholar](https://scholar.google.com/citations?user=wGcEkqwAAAAJ) for a complete and up-to-date list.
 
 <span class="anchor" id="experience"></span>
 
