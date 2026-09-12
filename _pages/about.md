@@ -97,14 +97,6 @@ Yiqing Huang†, `Tianshun Han`†, Haoru Zhao†, Yanyan Liang, Jun Wan, Sergio
 
 † Equal contribution. See [Google Scholar](https://scholar.google.com/citations?user=wGcEkqwAAAAJ) for a complete and up-to-date list.
 
-<span class="anchor" id="experience"></span>
-
-# Research Experience
-
-- **Tencent AI Lab, Digital Human Technology Center**, Research Intern, Oct. 2024–Jul. 2025
-
-- **Institute of Automation, Chinese Academy of Sciences**, Research Intern, Oct. 2023–Jun. 2024
-
 <span class="anchor" id="education"></span>
 
 # Education
