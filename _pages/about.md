@@ -14,7 +14,7 @@ redirect_from:
 
 I received my Ph.D. degree in Artificial Intelligence from [Macau University of Science and Technology](https://www.must.edu.mo/) in 2026, advised by [Prof. Jun Wan](https://scholar.google.com/citations?user=bSbc7FQAAAAJ&hl=en). Before that, I obtained my master's degree from [Ocean University of China](http://eweb.ouc.edu.cn/) and completed my undergraduate studies at [Xi'an University of Posts and Telecommunications](https://english.xupt.edu.cn/).
 
-My research focuses on computer vision and graphics for digital humans and embodied intelligence. Currently, I am interested in generative world-action models and biomimetic robotic faces, building on my background in speech-driven 3D facial animation and multimodal human interaction.
+My previous research has primarily focused on speech-driven 3D facial animation, with a broader interest in generative AI for digital humans. I am now extending this work toward embodied intelligence, with particular interests in facial expression generation and control for lifelike humanoid robots and world-action models for embodied agents.
 
 <span class="anchor" id="news"></span>
 
